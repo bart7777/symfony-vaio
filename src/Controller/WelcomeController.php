@@ -13,6 +13,7 @@ class WelcomeController extends AbstractController
      */
     public function index()
     {
+        //wwdddasfd
         return $this->render('welcome/index.html.twig');
     }
 }
