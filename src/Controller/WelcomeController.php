@@ -13,8 +13,12 @@ class WelcomeController extends AbstractController
      */
     public function index()
     {
+
+        //na bartkowym
         //wwdddasfd
         return $this->render('welcome/index.html.twig');
+
+
     }
 }
 
